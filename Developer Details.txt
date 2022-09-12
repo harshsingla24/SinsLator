@@ -1,0 +1,21 @@
+This Application/Languuage Translator is made by Harsh Singla
+
+Student's Details
+
+
+Name:-        Harsh Singla
+College:-     Punjabi University,Patiala
+Class:-       B.Tech(C.S.E Leet),4th Sem Project
+Clg Roll No;- 12001322
+
+Summer Training at Solitaire Infosys in Python &AI from 15 July 2021 To 30 August 2021
+
+
+
+
+
+
+
+
+
+
